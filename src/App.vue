@@ -1,7 +1,6 @@
 <template>
 
   <main class="py-8 relative">
-
     <!--Header-->
     <header class="container mx-auto lg:px-32 px-4 ">
       <div class="flex justify-between items-center">
